@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zenzcode
 - 👀 I’m interested in creating games
-- 🌱 I’m currently learning how to create shaders / games with unity and unreal engine
+- 🌱 I’m currently learning how to create shaders / work with opengl
 - 💞️ I’m looking to collaborate on making a game come true
 - 📫 How to reach me discord: erxc#0725
 
